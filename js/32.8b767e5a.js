@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[32],{"9a40":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("q-page",{staticClass:"flex flex-center"},[a("h2",[e._v("Configuraciones")])])},c=[],s={name:"configuraciones"},l=s,i=a("2877"),o=Object(i["a"])(l,t,c,!1,null,null,null);n["default"]=o.exports}}]);
